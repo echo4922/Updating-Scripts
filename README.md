@@ -1,1 +1,2 @@
-Simple updating scripts demonstration for Debian-based UNIX/LINUX OS and R
+The included filed are simple updating scripts demonstration for Debian-based UNIX/LINUX operating system (Ubuntu 22.04 "Jammy Jelly Fish" and R. 
+The bash shell script (all.sh) first updates necessary packages and its dependencies on Ubuntu then it invokes R script to update necessary packages and its dependencies on base R. Based on graduate level course assignments, projects and thesis research, updating packages and its dependencies on base R seemed to reduce possible software updating and installng issues. This seemed particularly true for Bioconductor, biology focused software on R.
